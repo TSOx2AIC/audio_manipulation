@@ -1,0 +1,8 @@
+
+*.index
+*.meta
+*.data-00000-of-00001
+pretrained_models*
+pretrained_models/4stems/checkpoint
+output/.DS_Store
+.DS_Store
